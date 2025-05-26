@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
-public class simpleCalculator {
-
+public class SimpleCalculator {
     public static void main(String[] args) {
-
         Scanner s = new Scanner(System.in);
 
         long firstNum = s.nextLong();
@@ -14,7 +12,5 @@ public class simpleCalculator {
         System.out.println(firstNum + " - " + secondNum + " = " + (firstNum - secondNum));
 
         s.close();
-
     }
-
 }
