@@ -4,12 +4,12 @@ public class Difference {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
-        long firstNum = s.nextLong();
-        long secondNum = s.nextLong();
-        long thirdNum = s.nextLong();
-        long fourthNum = s.nextLong();
+        long firstNumber = s.nextLong();
+        long secondNumber = s.nextLong();
+        long thirdNumber = s.nextLong();
+        long fourthNumber = s.nextLong();
 
-        System.out.println("Difference = " + (firstNum * secondNum - thirdNum * fourthNum));
+        System.out.println("Difference = " + (firstNumber * secondNumber - thirdNumber * fourthNumber));
 
         s.close();
     }
