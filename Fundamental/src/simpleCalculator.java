@@ -4,12 +4,12 @@ public class SimpleCalculator {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
-        long firstNum = s.nextLong();
-        long secondNum = s.nextLong();
+        long firstNumber = s.nextLong();
+        long secondNumber = s.nextLong();
 
-        System.out.println(firstNum + " + " + secondNum + " = " + (firstNum + secondNum));
-        System.out.println(firstNum + " * " + secondNum + " = " + (firstNum * secondNum));
-        System.out.println(firstNum + " - " + secondNum + " = " + (firstNum - secondNum));
+        System.out.println(firstNumber + " + " + secondNumber + " = " + (firstNumber + secondNumber));
+        System.out.println(firstNumber + " * " + secondNumber + " = " + (firstNumber * secondNumber));
+        System.out.println(firstNumber + " - " + secondNumber + " = " + (firstNumber - secondNumber));
 
         s.close();
     }
