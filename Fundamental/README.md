@@ -8,4 +8,6 @@
 
 4- Area of a Circle URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
 
-5-
+5- Digits Summation URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
+
+6- 
