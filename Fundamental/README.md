@@ -40,4 +40,6 @@
 
 20- Sort Numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
 
-21- 
+21- Float or int URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
+
+22- 
