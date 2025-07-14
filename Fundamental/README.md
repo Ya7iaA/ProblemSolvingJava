@@ -24,4 +24,6 @@
 
 12- Capital or Small or Digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
 
-13- 
+13- Char URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
+
+14- 
