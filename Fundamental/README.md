@@ -26,4 +26,6 @@
 
 13- Char URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
 
-14- 
+14- Calculator URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O
+
+15- 
