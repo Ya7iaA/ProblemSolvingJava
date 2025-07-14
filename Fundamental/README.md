@@ -10,6 +10,8 @@
 
 5- Digits Summation URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
 
-6- Summation from 1 to N -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
+6- Summation from 1 to N URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
 
-7- 
+7- Two numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
+
+8- 
