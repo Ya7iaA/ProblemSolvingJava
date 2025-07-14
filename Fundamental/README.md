@@ -30,4 +30,6 @@
 
 15- First digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
 
-16- 
+16- Coordinates of a Point URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q
+
+17- 
