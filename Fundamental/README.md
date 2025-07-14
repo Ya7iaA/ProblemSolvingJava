@@ -18,4 +18,6 @@
 
 9- Multiples URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
 
-10- 
+10- Max and Min URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
+
+11- 
