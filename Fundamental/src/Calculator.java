@@ -4,9 +4,27 @@ public class Calculator {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
-        String inputExpression = s.nextLine();
+        long firstNumber = s.nextInt();
+        String inputOperator = s.next();
+        long secondNumber = s.nextInt();
 
-        System.out.println("Wait to find the solve");
+        switch (inputOperator) {
+            case "+":
+                System.out.println(firstNumber + secondNumber);
+                break;
+            case "-":
+                System.out.println(firstNumber - secondNumber);
+                break;
+            case "*":
+                System.out.println(firstNumber * secondNumber);
+                break;
+            case "/":
+                System.out.println(firstNumber / secondNumber);
+                break;
+            default:
+                System.out.println("Invalid  Operator");
+                break;
+        }
 
         s.close();
     }
