@@ -22,4 +22,6 @@
 
 11- The Brothers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L
 
-12- 
+12- Capital or Small or Digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
+
+13- 
