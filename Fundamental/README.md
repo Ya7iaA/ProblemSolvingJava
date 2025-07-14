@@ -14,4 +14,6 @@
 
 7- Two numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
 
-8- 
+8- Welcome for you with Conditions URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
+
+9- 
