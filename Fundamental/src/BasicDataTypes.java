@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BasicDataType {
+public class BasicDataTypes {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
