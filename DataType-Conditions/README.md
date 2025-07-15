@@ -1,4 +1,4 @@
-# Fundamental Problem Solving
+# DataType and Conditions
 
 A- Say Hello With Java URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
 
