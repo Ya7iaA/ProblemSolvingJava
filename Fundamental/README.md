@@ -44,9 +44,9 @@ U- Float or int URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/pr
 
 V- Comparison URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V
 
-W- 
+W- Mathematical Expression URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
 
-X-
+X- 
 
 Y- 
 
