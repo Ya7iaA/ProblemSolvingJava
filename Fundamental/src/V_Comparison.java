@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Comparison {
+public class V_Comparison {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

@@ -19,8 +19,7 @@ public class T_SortNumbers {
                 }
             }
         }
-        for (int i = 0; i < 3; i++)
-        {
+        for (int i = 0; i < 3; i++) {
             System.out.println(sortArray[i]);
         }
         System.out.println("");

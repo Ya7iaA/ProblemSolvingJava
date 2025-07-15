@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TheLast2Digits {
+public class Y_TheLast2Digits {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
@@ -11,10 +11,10 @@ public class TheLast2Digits {
 
         int result = (firstNumber % 100) * (secondNumber % 100) * (thirdNumber % 100) * (fourthNumber % 100);
 
-        if (result%100<10) {
-            System.out.println("0"+result%100);
+        if (result % 100 < 10) {
+            System.out.println("0" + result % 100);
         } else {
-            System.out.println(result%100);
+            System.out.println(result % 100);
         }
 
         s.close();

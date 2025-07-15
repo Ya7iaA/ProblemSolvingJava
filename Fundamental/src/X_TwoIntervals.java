@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TwoIntervals {
+public class X_TwoIntervals {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
