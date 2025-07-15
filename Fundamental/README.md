@@ -46,7 +46,7 @@ V- Comparison URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/prob
 
 W- Mathematical Expression URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
 
-X- 
+X- The last 2 digits URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
 
 Y- 
 
