@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TwoNumbers {
+public class H_TwoNumbers {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

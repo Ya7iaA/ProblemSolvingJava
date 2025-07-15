@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SummationFrom1Ton {
+public class G_SummationFrom1Ton {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class FirstDigit {
+public class A_SayHelloWithJava {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
-        int theNumber = s.nextInt();
+        String inputName = s.next();
 
-        System.out.println(((theNumber / 1000) % 2 == 0 ? "EVEN" : "ODD"));
+        System.out.println("Hello, " + inputName);
 
         s.close();
     }

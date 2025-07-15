@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CapitalOrSmallOrDigit {
+public class M_CapitalOrSmallOrDigit {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

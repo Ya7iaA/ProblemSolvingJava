@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Char {
+public class N_Char {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

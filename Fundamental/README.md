@@ -1,45 +1,53 @@
 # Fundamental Problem Solving
 
-1- Say Hello With Java URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
+A- Say Hello With Java URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
 
-2- Basic Data Types URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B
+B- Basic Data Types URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B
 
-3- Simple Calculator URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
+C- Simple Calculator URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
 
-4- Difference URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
+D- Difference URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
 
-5- Area of a Circle URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
+E- Area of a Circle URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
 
-6- Digits Summation URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
+F- Digits Summation URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
 
-7- Summation from 1 to N URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
+G- Summation from 1 to N URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
 
-8- Two numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
+H- Two numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
 
-9- Welcome for you with Conditions URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
+I- Welcome for you with Conditions URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
 
-10- Multiples URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
+J- Multiples URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
 
-11- Max and Min URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
+K- Max and Min URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
 
-12- The Brothers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L
+L- The Brothers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L
 
-13- Capital or Small or Digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
+M- Capital or Small or Digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
 
-14- Char URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
+N- Char URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
 
-15- Calculator URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O
+O- Calculator URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O
 
-16- First digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
+P- First digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
 
-17- Coordinates of a Point URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q
+Q- Coordinates of a Point URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q
 
-18- Age in Days URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R
+R- Age in Days URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R
 
-19- Interval URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S
+S- Interval URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S
 
-20- Sort Numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
+T- Sort Numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
 
-21- Float or int URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
+U- Float or int URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
 
-22- 
+V- Comparison URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V
+
+W- 
+
+X-
+
+Y- 
+
+Z- 

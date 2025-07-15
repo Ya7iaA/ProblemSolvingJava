@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator {
+public class O_Calculator {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

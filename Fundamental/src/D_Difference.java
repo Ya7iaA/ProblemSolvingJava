@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Difference {
+public class D_Difference {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
