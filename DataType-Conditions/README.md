@@ -60,4 +60,6 @@ ZB- Memo and Momo URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/
 
 ZC- Next Alphabet URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C
 
-ZD- 
+ZD- Ali Baba and Puzzles URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D
+
+ZE- 
