@@ -62,4 +62,6 @@ ZC- Next Alphabet URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/
 
 ZD- Ali Baba and Puzzles URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D
 
-ZE- 
+ZE- Interval Sweep URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E
+
+ZF- 
