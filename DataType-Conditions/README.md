@@ -51,3 +51,9 @@ X- Two intervals URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/p
 Y- The last 2 digits URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
 
 Z- Hard Compare URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
+
+# DataType and Conditions Contest
+
+ZA- Winter Sale URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A
+
+ZB- 
