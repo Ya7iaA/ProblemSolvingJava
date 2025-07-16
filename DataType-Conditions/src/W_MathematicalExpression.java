@@ -5,25 +5,25 @@ public class W_MathematicalExpression {
         Scanner s = new Scanner(System.in);
 
         int firstNumber = s.nextInt();
-        String inputOperator = s.next();
+        char inputOperator = s.next().charAt(0);
         int secondNumber = s.nextInt();
-        String assignmentOperator = s.next();
+        char assignmentOperator = s.next().charAt(0);
         int inputResult = s.nextInt();
 
-        if (inputOperator == "+") {
+        if (inputOperator == '+') {
             if (firstNumber + secondNumber == inputResult) {
                 System.out.println("Yes");
             } else {
                 System.out.println(firstNumber + secondNumber);
             }
-        } else if (inputOperator == "-") {
-            if (firstNumber + secondNumber == inputResult) {
+        } else if (inputOperator == '-') {
+            if (firstNumber - secondNumber == inputResult) {
                 System.out.println("Yes");
             } else {
                 System.out.println(firstNumber - secondNumber);
             }
-        } else if (inputOperator == "*") {
-            if (firstNumber + secondNumber == inputResult) {
+        } else if (inputOperator == '*') {
+            if (firstNumber * secondNumber == inputResult) {
                 System.out.println("Yes");
             } else {
                 System.out.println(firstNumber * secondNumber);

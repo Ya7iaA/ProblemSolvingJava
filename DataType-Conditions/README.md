@@ -58,4 +58,6 @@ ZA- Winter Sale URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/pr
 
 ZB- Memo and Momo URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B
 
-ZC- 
+ZC- Next Alphabet URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C
+
+ZD- 

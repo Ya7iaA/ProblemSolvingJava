@@ -5,20 +5,20 @@ public class O_Calculator {
         Scanner s = new Scanner(System.in);
 
         long firstNumber = s.nextInt();
-        String inputOperator = s.next();
+        char inputOperator = s.next().charAt(0);
         long secondNumber = s.nextInt();
 
         switch (inputOperator) {
-            case "+":
+            case '+':
                 System.out.println(firstNumber + secondNumber);
                 break;
-            case "-":
+            case '-':
                 System.out.println(firstNumber - secondNumber);
                 break;
-            case "*":
+            case '*':
                 System.out.println(firstNumber * secondNumber);
                 break;
-            case "/":
+            case '/':
                 System.out.println(firstNumber / secondNumber);
                 break;
             default:
