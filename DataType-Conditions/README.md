@@ -56,4 +56,6 @@ Z- Hard Compare URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/pr
 
 ZA- Winter Sale URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A
 
-ZB- 
+ZB- Memo and Momo URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B
+
+ZC- 
