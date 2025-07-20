@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class U_FloatOrInt {
+public class PU_FloatOrInt {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

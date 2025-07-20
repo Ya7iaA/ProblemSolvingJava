@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Z_HardCompare {
+public class PZ_HardCompare {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

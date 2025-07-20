@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class W_MathematicalExpression {
+public class PW_MathematicalExpression {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

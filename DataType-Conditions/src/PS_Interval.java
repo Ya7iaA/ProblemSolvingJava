@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class S_Interval {
+public class PS_Interval {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

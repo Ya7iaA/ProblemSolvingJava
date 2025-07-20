@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ZB_MemoAndMomo {
+public class CB_MemoAndMomo {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

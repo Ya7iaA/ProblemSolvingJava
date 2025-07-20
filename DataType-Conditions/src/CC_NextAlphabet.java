@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class M_CapitalOrSmallOrDigit {
+public class CC_NextAlphabet {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
         char inputChar = s.next().charAt(0);
 
-        System.out.println((inputChar >= 97) ? "ALPHA\nIS SMALL" : inputChar >= 65 ? "ALPHA\nIS CAPITAL" : "IS DIGIT");
+        System.out.println((inputChar == 122 ? "a" : (char) (inputChar + 1)));
 
         s.close();
     }

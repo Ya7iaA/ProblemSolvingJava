@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q_CoordinatesOfaPoint {
+public class PQ_CoordinatesOfaPoint {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

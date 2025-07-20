@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ZE_IntervalSweep {
+public class CE_IntervalSweep {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

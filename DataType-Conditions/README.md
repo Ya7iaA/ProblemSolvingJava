@@ -1,67 +1,69 @@
 # DataType and Conditions
 
-A- Say Hello With Java URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
+PA- Say Hello With Java URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
 
-B- Basic Data Types URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B
+PB- Basic Data Types URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B
 
-C- Simple Calculator URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
+PC- Simple Calculator URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
 
-D- Difference URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
+PD- Difference URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
 
-E- Area of a Circle URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
+PE- Area of a Circle URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
 
-F- Digits Summation URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
+PF- Digits Summation URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
 
-G- Summation from 1 to N URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
+PG- Summation from 1 to N URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
 
-H- Two numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
+PH- Two numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
 
-I- Welcome for you with Conditions URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
+PI- Welcome for you with Conditions URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
 
-J- Multiples URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
+PJ- Multiples URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
 
-K- Max and Min URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
+PK- Max and Min URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
 
-L- The Brothers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L
+PL- The Brothers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L
 
-M- Capital or Small or Digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
+PM- Capital or Small or Digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
 
-N- Char URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
+PN- Char URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
 
-O- Calculator URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O
+PO- Calculator URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O
 
-P- First digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
+PP- First digit URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P
 
-Q- Coordinates of a Point URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q
+PQ- Coordinates of a Point URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q
 
-R- Age in Days URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R
+PR- Age in Days URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R
 
-S- Interval URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S
+PS- Interval URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S
 
-T- Sort Numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
+PT- Sort Numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
 
-U- Float or int URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
+PU- Float or int URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
 
-V- Comparison URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V
+PV- Comparison URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V
 
-W- Mathematical Expression URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
+PW- Mathematical Expression URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
 
-X- Two intervals URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
+PX- Two intervals URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
 
-Y- The last 2 digits URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
+PY- The last 2 digits URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
 
-Z- Hard Compare URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
+PZ- Hard Compare URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
 
 # DataType and Conditions Contest
 
-ZA- Winter Sale URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A
+CA- Winter Sale URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A
 
-ZB- Memo and Momo URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B
+CB- Memo and Momo URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B
 
-ZC- Next Alphabet URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C
+CC- Next Alphabet URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C
 
-ZD- Ali Baba and Puzzles URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D
+CD- Ali Baba and Puzzles URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D
 
-ZE- Interval Sweep URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E
+CE- Interval Sweep URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E
 
-ZF- 
+CF- Adding Bits URL -> https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F
+
+CG- 

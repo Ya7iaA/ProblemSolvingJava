@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class K_MaxAndMin {
+public class PK_MaxAndMin {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

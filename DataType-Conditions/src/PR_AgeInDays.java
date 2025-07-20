@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class R_AgeInDays {
+public class PR_AgeInDays {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

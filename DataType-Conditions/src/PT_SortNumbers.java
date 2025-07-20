@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class T_SortNumbers {
+public class PT_SortNumbers {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 

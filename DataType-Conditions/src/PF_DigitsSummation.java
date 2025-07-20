@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class F_DigitsSummation {
+public class PF_DigitsSummation {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
