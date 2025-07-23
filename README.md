@@ -1,6 +1,6 @@
 # Problem-Solving-Java
 
-1- Data Type , Conditions
+1- Data Type , Conditions (https://codeforces.com/group/MWSDmqGsZm/contests)
 
 ## Hint for easy read
 
