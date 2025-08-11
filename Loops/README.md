@@ -8,7 +8,7 @@ PC- Even, Odd, Positive and Negative URL -> https://codeforces.com/group/MWSDmqG
 
 PD- Fixed Password URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D
 
-PE- Area of a Circle URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
+PE- Max URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
 
 PF- Digits Summation URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
 
