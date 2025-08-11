@@ -10,7 +10,7 @@ PD- Fixed Password URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432
 
 PE- Max URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
 
-PF- Digits Summation URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
+PF- Multiplication table URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F
 
 PG- Summation from 1 to N URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
 
