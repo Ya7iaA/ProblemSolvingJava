@@ -6,7 +6,7 @@ PB- Even Numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/p
 
 PC- Even, Odd, Positive and Negative URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C
 
-PD- Difference URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
+PD- Fixed Password URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D
 
 PE- Area of a Circle URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
 
