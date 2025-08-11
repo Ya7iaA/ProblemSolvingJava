@@ -12,7 +12,7 @@ PE- Max URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
 
 PF- Multiplication table URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F
 
-PG- Summation from 1 to N URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
+PG- Factorial URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G
 
 PH- Two numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
 
