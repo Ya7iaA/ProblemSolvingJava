@@ -4,7 +4,7 @@ PA- 1 to N URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem
 
 PB- Even Numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B
 
-PC- Simple Calculator URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
+PC- Even, Odd, Positive and Negative URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C
 
 PD- Difference URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
 
