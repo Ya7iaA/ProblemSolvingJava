@@ -14,7 +14,7 @@ PF- Multiplication table URL -> https://codeforces.com/group/MWSDmqGsZm/contest/
 
 PG- Factorial URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G
 
-PH- Two numbers URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H
+PH- One Prime URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H
 
 PI- Welcome for you with Conditions URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
 
