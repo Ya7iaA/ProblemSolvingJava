@@ -1,6 +1,8 @@
 # Problem-Solving-Java
 
-1- Data Type , Conditions (https://codeforces.com/group/MWSDmqGsZm/contests)
+1- Data Type , Conditions URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219158
+
+2- Loops URL -> https://codeforces.com/group/MWSDmqGsZm/contest/219432
 
 ## Hint for easy read
 
