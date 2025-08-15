@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NullPointer {
+public class C_NullPointer {
 
     public static void toUpperCase(String inputString) {
         System.out.println(inputString.toUpperCase());
