@@ -8,4 +8,6 @@ C- Null Pointer : Create a method that calls toUpperCase() on a string. Pass nul
 
 D- Access Array Element : Create an array of 5 elements. Ask user to enter an index and print the value. Handle ArrayIndexOutOfBoundsException.
 
-E- 
+E- Read File : Try to read a file from disk and handle FileNotFoundException. (Use FileReader or Scanner)
+
+F- 
