@@ -6,4 +6,6 @@ B- Convert String to Integer : Ask user to enter a number in a String, convert i
 
 C- Null Pointer : Create a method that calls toUpperCase() on a string. Pass null and handle NullPointerException.
 
-D- 
+D- Access Array Element : Create an array of 5 elements. Ask user to enter an index and print the value. Handle ArrayIndexOutOfBoundsException.
+
+E- 
